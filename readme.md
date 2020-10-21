@@ -1,14 +1,11 @@
-Project demo video link -
-https://youtu.be/8nqrYOmumXM
+## E-comCart
 
-Project link - 
-https://www.ecommerce.mithunjmistry.com
-
-E-commerce application with PHP Laravel backend and React-Redux frontend: 
+E-commerce application with PHP Laravel backend and React-Redux frontend:
 
 React files are present in resources/assets/js and SCSS files in resources/assets/sass
 
-Instructions - 
+Instructions -
+
 1. Install npm, composer and yarn
 2. Run "composer install"
 3. Rename .env.example to .env
@@ -22,16 +19,19 @@ Instructions -
 
 Sample env is being provided in project.
 
-For email - 
-1. Create a free account on Mailgun and fill the mailgun API details in .env  file.
+For email -
 
-For cache - 
+1. Create a free account on Mailgun and fill the mailgun API details in .env file.
+
+For cache -
+
 1. Host a Redis server and provide the details in .env or change the cache driver to "file"
 
-For email validation - 
+For email validation -
+
 1. Sign up free on Verifalia and provide details in .env file to validate email.
- 
-The e-commerce site will be served. 
+
+The e-commerce site will be served.
 Custom SASS loader is configured in the webpack.
 
 React is served via Laravel and fetches data by RESTful API calls made in Laravel.

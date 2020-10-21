@@ -4,7 +4,7 @@
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
- * @author   Abdulhakeem Muhammed <taylor@laravel.com>
+ * @author   Abdulhakeem Muhammed <dev.abdulhakeem@gmail.com>
  */
 
 define('LARAVEL_START', microtime(true));
